@@ -1,0 +1,19 @@
+body{
+	
+			background-color:000000;
+		
+
+	
+
+}
+h1{ background-color: white;
+}
+
+img {
+  border-radius: 8px;
+}
+div {border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+margin-left: 400px; }
